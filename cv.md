@@ -1,13 +1,13 @@
 #CV
 
-###1.SURNAME/NAME
+### 1.SURNAME/NAME
 KORENKOV KONSTANTIN
 
-###2.CONTACTS
+### 2.CONTACTS
 tel: +375-29-553-82-17
-mail: croc94@mail.----------
+mail: *croc94@mail*
 
-###3.ABOUT MYSELF
+### 3.ABOUT MYSELF
 I am 26 years old.
 I am graduated BNTU as a mechanical engineer.
 I set the goal of my teaching in programming languages to improve the well-being of my family and myself.
