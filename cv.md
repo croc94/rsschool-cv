@@ -1,14 +1,17 @@
 # CV
 
+
 ### 1.SURNAME/NAME
 
 KORENKOV KONSTANTIN
+
 
 ### 2.CONTACTS
 
 tel: +375-29-553-82-17
 
 mail: croc94@mail
+
 
 ### 3.ABOUT MYSELF
 
@@ -37,27 +40,30 @@ Git
 
 OOP
 
+
 ### 5.EXAMPLES
 
 https://croc94.github.io/training2/
 
 
-
 ### 6.EXPERIENCE
+
 
 ### 7.EDUCATION
 
-2011 - : finished school
+By years of study:
 
-2011 - 2016 : BNTU, faculty of Transport Communications, specialty mechanical engineer
+* 2011 - : finished school
 
-2016 - 2017 : BNTU, faculty of Transport Communications, studied for master, did not finish
+* 2011 - 2016 : BNTU, faculty of Transport Communications, specialty mechanical engineer
 
-2019 : IT-academy, HTML/CSS/JS course, finish with certificate
+* 2016 - 2017 : BNTU, faculty of Transport Communications, studied for master, did not finish
 
-2019 : IT-academy, HTML/CSS/JS second course, finish without certificate
+* 2019 : IT-academy, HTML/CSS/JS course, finish with certificate
 
-2020 : Self-study
+* 2019 : IT-academy, HTML/CSS/JS second course, finish without certificate
+
+* 2020 : Self-study
 
 
 ### 8.LANGUAGE
