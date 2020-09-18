@@ -58,3 +58,8 @@ https://croc94.github.io/training2/
 2019 : IT-academy, HTML/CSS/JS second course, finish without certificate
 
 2020 : Self-study
+
+
+### 8.LANGUAGE
+
+English - A2
