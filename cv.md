@@ -57,7 +57,7 @@ By years of study:
 
 * 2011 - 2016 : BNTU, faculty of Transport Communications, specialty mechanical engineer
 
-* 2016 - 2017 : BNTU, faculty of Transport Communications, studied for master, did not finish
+* 2016 - 2017 : BNTU, faculty of Transport Communications, studied for master but did not finish
 
 * 2019 : IT-academy, HTML/CSS/JS course, finish with certificate
 
